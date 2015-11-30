@@ -1,0 +1,13 @@
+{
+  "name": "criterion",
+  "description": "...",
+  "license": "...",
+  "authors": [
+    {
+      "name": "Ruslans Tarasovs",
+      "email": "ruslans.tarasovs@ms-idi.eu"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}

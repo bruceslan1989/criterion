@@ -6,14 +6,14 @@
  * Time: 9:56 AM
  */
 
-namespace Criterion\Entities;
+namespace Bruceslan\Criterion\Entities;
 
 use Illuminate\Database\Eloquent\Model;
 
 /**
  * Class BaseModel
  *
- * @package Criterion\Entities
+ * @package Bruceslan\Criterion\Entities
  */
 class BaseModel extends Model
 {

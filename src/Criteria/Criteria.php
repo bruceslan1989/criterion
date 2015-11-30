@@ -6,14 +6,14 @@
  * Time: 9:48 AM
  */
 
-namespace Criterion\Criteria;
+namespace Bruceslan\Criterion\Criteria;
 
-use Criterion\Contracts\RepositoryInterface as Repository;
+use Bruceslan\Criterion\Contracts\RepositoryInterface as Repository;
 
 /**
  * Class Criteria
  *
- * @package Criterion\Criteria
+ * @package Bruceslan\Criterion\Criteria
  */
 abstract class Criteria
 {

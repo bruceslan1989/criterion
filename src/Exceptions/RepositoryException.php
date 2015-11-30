@@ -6,14 +6,14 @@
  * Time: 9:54 AM
  */
 
-namespace Criterion\Exceptions;
+namespace Bruceslan\Criterion\Exceptions;
 
 use Exception;
 
 /**
  * Class RepositoryException
  *
- * @package Criterion\Exceptions
+ * @package Bruceslan\Criterion\Exceptions
  */
 class RepositoryException extends Exception
 {

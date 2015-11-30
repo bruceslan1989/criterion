@@ -6,12 +6,12 @@
  * Time: 9:49 AM
  */
 
-namespace Criterion\Contracts;
+namespace Bruceslan\Criterion\Contracts;
 
 /**
  * Interface RepositoryInterface
  *
- * @package Criterion\Contracts
+ * @package Bruceslan\Criterion\Contracts
  */
 interface RepositoryInterface
 {

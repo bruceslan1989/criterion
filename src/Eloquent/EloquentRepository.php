@@ -6,20 +6,20 @@
  * Time: 9:50 AM
  */
 
-namespace Criterion\Eloquent;
+namespace Bruceslan\Criterion\Eloquent;
 
-use Criterion\Contracts\RepositoryInterface;
-use Criterion\Contracts\CriteriaInterface;
-use Criterion\Criteria\Criteria;
-use Criterion\Entities\BaseModel;
-use Criterion\Exceptions\RepositoryException;
+use Bruceslan\Criterion\Contracts\RepositoryInterface;
+use Bruceslan\Criterion\Contracts\CriteriaInterface;
+use Bruceslan\Criterion\Criteria\Criteria;
+use Bruceslan\Criterion\Entities\BaseModel;
+use Bruceslan\Criterion\Exceptions\RepositoryException;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\App;
 
 /**
  * Class EloquentRepository
  *
- * @package Criterion\Eloquent
+ * @package Bruceslan\Criterion\Eloquent
  */
 class EloquentRepository implements RepositoryInterface, CriteriaInterface
 {
